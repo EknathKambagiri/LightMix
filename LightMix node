@@ -2,7 +2,7 @@ set cut_paste_input [stack 0]
 version 13.0 v2
 push $cut_paste_input
 Group {
- name LightMix_v2
+ name LightMix
  selected true
  xpos 762
  ypos 3
